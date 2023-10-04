@@ -14,3 +14,5 @@ git 다양한 기능 연습하기
 
 - 'git commit --amend'
 - 커밋 수정 후 덮어쓰기
+
+# cherrypick
